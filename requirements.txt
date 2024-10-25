@@ -1,0 +1,17 @@
+knowledge_storm
+langchain==0.2.12
+langchainhub==0.1.21
+langchain-community==0.2.11
+langchain-chroma==0.1.2
+langchain-core==0.2.38
+langchain-openai==0.1.23
+langchain-qdrant==0.1.4
+langchain-text-splitters==0.2.2
+langsmith==0.1.98
+openpyxl==3.1.5
+openai==1.40.1
+python-dotenv==1.0.1
+pandas==2.2.2
+pypdf==4.3.1
+qdrant-client==1.12.0
+sentence_transformers==3.2.1

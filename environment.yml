@@ -1,0 +1,14 @@
+# A Docker environment is provided with DOT, but below you can also find
+# a simple conda environment. To use this ...
+#
+# 1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) by selecting the installer that fits your OS version. Once it is installed you may have to restart your terminal (closing your terminal and opening again)
+# 2. In this directory, open terminal
+# 3. `conda env create -f environment.yml`
+# 4. `conda activate storm-local-docs`
+#
+name: storm-local-docs
+dependencies:
+  - pip
+  - python=3.11.4
+  - pip:
+    - -r requirements.txt
