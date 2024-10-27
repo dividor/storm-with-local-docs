@@ -1,6 +1,10 @@
 # Storm with local documents
 
-This is a simple repo to show the use of [STORM](https://github.com/stanford-oval/storm) on local documents.
+This is a simple repo to show the use of [STORM](https://github.com/stanford-oval/storm) on local documents. It is part of blog post ...
+
+[Running the STORM AI researcher algorithm on your local documents](https://medium.com/@astrobagel/running-the-storm-ai-researcher-algorithm-on-your-local-documents-e413ea2ae064)
+
+See notebook [storm-local-docs.ipynb](./storm-local-docs.ipynb) for the gory details.
 
 ## Setup
 
